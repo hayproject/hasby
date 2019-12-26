@@ -1,0 +1,2 @@
+# hasby
+open share
